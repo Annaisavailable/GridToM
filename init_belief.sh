@@ -1,0 +1,11 @@
+CUDA_VISIBLE_DEVICES="0" python init_belief.py \
+    --model RepBelief_models/$1 \
+    --dataset GridToM \
+    --annotation GridToM/info.json \
+    --output_dir Vib_results_init \
+    --image_process_mode Default \
+    --seed 42 \
+    --temperature 0 \
+    --top_p 0.7 \
+    --max_new_tokens 400 \
+    --indice_num -1
