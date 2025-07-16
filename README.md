@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://icml.cc/static/core/img/ICML-logo.svg" alt="conference_logo" height="50">
+    <img src="https://icml.cc/static/core/img/ICML-logo.svg" alt="conference_logo" height="80">
     <h2>From Black Boxes to Transparent Minds: Evaluating and Enhancing the Theory of Mind in Multimodal Large Language Models</h2>
     <p align="center">
     <div style="line-height: 3;">
@@ -9,14 +9,15 @@
         <a href="https://scholar.google.com/citations?user=A1gA9XIAAAAJ" target="_blank">Jiansheng Chen</a>,
         <a href="https://scholar.google.com/citations?user=32hwVLEAAAAJ" target="_blank">Huimin Ma</a><sup>†</sup>
     </div>
+    <br>
     <div style="line-height: 3;">
-      <a href='https://annaisavailable.github.io/GridToM/'>
+      <a href='https://annaisavailable.github.io/GridToM/' style="text-decoration:none;">
         <img src='https://img.shields.io/badge/Project_Page-GridToM-green?logo=github&logoColor=white' alt='Project Page'>
       </a>
-      <a href="https://arxiv.org/pdf/2506.14224">
+      <a href="https://arxiv.org/pdf/2506.14224" style="text-decoration:none;">
         <img src='https://img.shields.io/badge/arXiv-2506.14224-b31b1b?logo=arxiv&logoColor=white' alt='arXiv'>
       </a>
-      <a href="https://huggingface.co/datasets/AnnaLeee/GridToM">
+      <a href="https://huggingface.co/datasets/AnnaLeee/GridToM" style="text-decoration:none;">
         <img src='https://img.shields.io/badge/Huggingface-GridToM-ffb400?logo=huggingface&logoColor=white' alt='huggingface'>
       </a>
     </div>
